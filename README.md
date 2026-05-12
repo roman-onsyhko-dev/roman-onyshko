@@ -86,7 +86,7 @@ Worked on multiple production projects, including:
 
 ## 📌 Important Note About GitHub Activity
 
-During the last **~1.5 years**, my professional work has been split across **two GitHub accounts**, depending on the company/project context.
+During the last **~2 years**, my professional work has been split across **two GitHub accounts**, depending on the company/project context.
 
 - **Current main account:**  
   👉 https://github.com/winniepuhh
