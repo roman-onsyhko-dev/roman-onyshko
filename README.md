@@ -1,111 +1,107 @@
 ## 👋 About Me
 
-I am a Front-End Engineer with strong experience in building complex, scalable, and maintainable web applications using **React, Angular, and TypeScript**.
+I am a **frontend-focused Full-Stack Developer** with **3+ years of commercial experience** building SaaS, fintech and admin applications with **React, TypeScript and Angular**.
 
-Over the past years, I have worked on large commercial products and long-term enterprise platforms, including legacy system migrations, complex form-heavy applications, admin dashboards, and data-driven UI systems.
+I migrated more than half of an enterprise AngularJS platform (about twenty logic-heavy pages) to React and TypeScript, rebuilding complex forms and secure document flows and creating a reusable component library. I also built an AI trading section for a crypto exchange from scratch.
 
-My core focus is on **clean architecture, performance optimization, stable UI behavior, and high-quality user experience**. I am comfortable working with legacy codebases, gradually modernizing them while ensuring backward compatibility and system stability.
+I am strong in both the React and Angular ecosystems, with a focus on performance, clean architecture and pixel-perfect UI. Currently I am expanding into backend development with **Node.js, NestJS, Express and PostgreSQL**, building a full-stack monorepo with two interchangeable backends. I use AI coding agents daily to deliver faster while keeping code reviewed and tested.
 
-Currently based in **Warsaw, Poland**.
+📍 Based in **Warsaw, Poland** · open to remote, hybrid or office · B2B or employment contract
 
 ---
 
 ## 🧠 Core Expertise
 
-- React (Hooks, Context API), React + TypeScript architecture
-- Angular (v2+), AngularJS (legacy support & migration)
-- TypeScript, JavaScript (ES6+)
-- RxJS, Redux
-- Complex forms: validation, deep sanitization, conditional rendering
-- Component-based architecture & reusable UI systems
-- Performance optimization (memoization, code splitting, lazy loading)
-- PDF rendering, dynamic images, signatures, QR logic
-- REST APIs, authentication flows, role-based routing
-- Responsive & adaptive UI, accessibility
-- Unit testing (Jest, RTL), basic E2E (Playwright)
+- React + TypeScript architecture, Angular (v2+), AngularJS → React migration
+- Complex forms: validation, sanitization, conditional rendering, autofill, error handling
+- Reusable component libraries (Emotion, SCSS)
+- Performance: memoization, lazy loading, code splitting, caching, bundle optimization
+- PDF, photo, e-signature and secure file-rendering flows
+- Real-time UI with WebSockets
+- REST API integration and design, JWT authentication (HTTP-only cookies)
+- Unit testing (Jest, React Testing Library), E2E (Playwright)
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- React, Angular, AngularJS
-- TypeScript, JavaScript
-- SCSS, CSS, Emotion
-- React Router, Angular Router
+**Frontend:** React, TypeScript, JavaScript (ES6+), Angular, AngularJS, HTML5, CSS3, SCSS, Emotion
 
-**State & Data**
-- RxJS, Redux
-- REST API, Axios
-- Firebase / Firestore
+**State & data:** Redux, Zustand, MobX, Context API, RxJS, REST API, WebSockets, Axios, Firebase / Firestore
 
-**Tooling**
-- Git, GitHub
-- Webpack, Vite (basics)
-- Chrome DevTools
-- Jira / Agile
-- Figma (basic)
+**Forms & routing:** React Router, TanStack Router, Angular Router, Reactive Forms
+
+**Backend:** Node.js, NestJS, Express, PostgreSQL, Prisma ORM, Docker
+
+**Testing:** Jest, React Testing Library, Playwright
+
+**AI-assisted development:** Claude Code (agents, custom skills, CLAUDE.md project rules), Claude, ChatGPT, Cursor, GitHub Copilot
+
+**Tools:** Git, GitHub, Vite, Webpack, Chrome DevTools, Postman, Swagger, Jira, Figma
 
 ---
 
-## 💼 Professional Experience (Summary)
+## 💼 Professional Experience
 
-### Front-End Engineer — Enterprise SaaS Platform  
-Working on a long-term migration of a large SaaS system from **AngularJS (Angular 1)** to a modern **React + TypeScript** architecture.
+### Full-Stack Developer (Internship) — Innowise · *Sep 2026 – Present* · Warsaw
+**AutoLincoln** — auto parts catalogue SPA
+- Full-stack npm-workspaces monorepo: React frontend + two interchangeable backends (NestJS and Express) implementing an identical REST contract over a shared PostgreSQL database with Prisma
+- JWT cookie-based authentication shared by both backends
+- Frontend backend-switcher with automatic fallback to the second API when one is unavailable
 
-Key responsibilities:
-- Gradual replacement of legacy modules with modern React components
-- Redesign of complex UI flows while maintaining system stability
-- Building reusable UI components with Emotion/SCSS and multi-theme support
-- Deep form logic: validation, sanitization, autofill, error handling
-- PDF, photo, and signature rendering with secure file handling
-- Performance improvements via memoization, code splitting, and lazy loading
+### Frontend Developer — Appexoft · *Jan 2025 – Aug 2026* · Lviv / Warsaw
+**RTRS** — US safety and risk-management SaaS for construction and insurance
+- Migrated more than half of the platform (~20 logic-heavy pages) from AngularJS to React + TypeScript
+- Rebuilt complex form flows with validation, sanitization, conditional rendering and autofill
+- Rebuilt PDF, photo, e-signature and secure file-rendering flows, reducing UI-related errors by 40%+
+- Created a reusable component library (React, TypeScript, Emotion, SCSS)
+- Covered key components and business logic with Jest unit tests
 
----
+**Crypto exchange platform — AI Arena**
+- Built the AI Arena section from scratch: users create AI trading agents, fund them and run them with different strategies
+- Multi-step agent creation and funding flows built to a custom design system
+- WebSocket-based live updates with connection-state handling and real-time UI sync
 
-### Angular / React Developer — Commercial Projects
-Worked on multiple production projects, including:
-- Admin dashboards with dynamic forms, tables, filters, and pagination
-- Marketplace platforms (cars & boats, US market)
-- Authentication flows, role-based routing, and session management
-- Hybrid architectures (Angular + WordPress CMS integration)
-- Firestore-based systems with real-time data synchronization
+### Frontend Developer — Insiders · *May 2024 – Jan 2025* · Lviv
+- **Hotcar.ua** (Angular + WordPress): faster page loads via API optimization, caching and smaller bundles; Angular modules integrated with WordPress via REST API
+- **US marketplace for boat and car sales**: multi-criteria filtering with server-side pagination, integrated end to end with a NestJS backend
 
----
+### Angular Frontend Developer — Freelance · *Sep 2023 – Apr 2024*
+- Angular admin platform for a private music school: students, teachers, schedules and lessons
+- Firebase / Firestore with real-time sync; RxJS state; OnPush, lazy loading, trackBy, debounce
 
-## 🧩 Key Strengths
-
-- Strong analytical thinking and problem-solving mindset
-- Ability to work with complex and legacy codebases
-- Attention to detail and UI/UX quality
-- Ownership mentality and responsibility for long-term solutions
-- Effective communication and teamwork
-- Comfortable working under deadlines
+### React Frontend Developer — Bluebox Worldwide Ltd · *Mar 2023 – Aug 2023* · UK, remote
+- Responsive, cross-browser React components from design mockups; REST APIs with Axios
+- Git workflow with pull requests and code reviews
 
 ---
 
 ## 📌 Important Note About GitHub Activity
 
-During the last **~2 years**, my professional work has been split across **two GitHub accounts**, depending on the company/project context.
+My professional work has been split across several GitHub accounts, depending on the company and project context. Most commercial work was done in private or company-managed repositories, so activity may look distributed or reduced on a single account for certain periods.
 
-- **Current main account:**  
-  👉 https://github.com/winniepuhh
+- **Current corporate account:** 👉 https://github.com/romanonyshko
+- **Previous accounts:** 👉 https://github.com/winniepuhh, 👉 https://github.com/kyryloivanov17
 
-- **Previous work account:**  
-  👉 https://github.com/kyryloivanov17
+This account ([roman-onsyhko-dev](https://github.com/roman-onsyhko-dev)) is my personal profile.
 
-This explains why activity may appear distributed or reduced on one account for certain periods. Most commercial work during this time was done under private or company-managed repositories.
+---
+
+## 🎓 Education
+
+- **BSc, Telecommunications and Radio Engineering** — State University of Intelligent Technologies and Telecommunications, Odesa · 2023 – 2025
+- **Junior Bachelor, Automotive Maintenance and Repair** — Lviv Automobile and Road College · 2019 – 2023
 
 ---
 
 ## 🌍 Languages
 
-- Ukrainian — Native  
-- Russian — Fluent  
-- English — B1
+English — B2 (Upper-Intermediate) · Ukrainian — Native · Russian — Fluent
 
 ---
 
-📫 **Contact:**  
-- Email: romanonyshko501@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/roman-onyshko
+## 📫 Contact
+
+- Email: onyshkoroman998@gmail.com
+- LinkedIn: [linkedin.com/in/roman-onyshko-27069b23a](https://www.linkedin.com/in/roman-onyshko-27069b23a)
+- Telegram: [@romanonyshko](https://t.me/romanonyshko)
