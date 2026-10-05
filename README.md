@@ -6,13 +6,13 @@ I migrated more than half of an enterprise AngularJS platform (about twenty logi
 
 I am strong in both the React and Angular ecosystems, with a focus on performance, clean architecture and pixel-perfect UI. Currently I am expanding into backend development with **Node.js, NestJS, Express and PostgreSQL**, building a full-stack monorepo with two interchangeable backends. I use AI coding agents daily to deliver faster while keeping code reviewed and tested.
 
-📍 Based in **Warsaw, Poland** · open to remote, hybrid or office · B2B or employment contract
+📍 Based in **Warsaw, Poland** | open to remote, hybrid or office | B2B or employment contract
 
 ---
 
 ## 🧠 Core Expertise
 
-- React + TypeScript architecture, Angular (v2+), AngularJS → React migration
+- React + TypeScript architecture, Angular (v2+), AngularJS to React migration
 - Complex forms: validation, sanitization, conditional rendering, autofill, error handling
 - Reusable component libraries (Emotion, SCSS)
 - Performance: memoization, lazy loading, code splitting, caching, bundle optimization
@@ -43,34 +43,34 @@ I am strong in both the React and Angular ecosystems, with a focus on performanc
 
 ## 💼 Professional Experience
 
-### Full-Stack Developer (Internship) — Innowise · *Sep 2026 – Present* · Warsaw
-**AutoLincoln** — auto parts catalogue SPA
+### Full-Stack Developer (Internship) - Innowise | *Sep 2026 - Present* | Warsaw
+**AutoLincoln** - auto parts catalogue SPA
 - Full-stack npm-workspaces monorepo: React frontend + two interchangeable backends (NestJS and Express) implementing an identical REST contract over a shared PostgreSQL database with Prisma
 - JWT cookie-based authentication shared by both backends
 - Frontend backend-switcher with automatic fallback to the second API when one is unavailable
 
-### Frontend Developer — Appexoft · *Jan 2025 – Aug 2026* · Lviv / Warsaw
-**RTRS** — US safety and risk-management SaaS for construction and insurance
+### Frontend Developer - Appexoft | *Jan 2025 - Aug 2026* | Lviv / Warsaw
+**RTRS** - US safety and risk-management SaaS for construction and insurance
 - Migrated more than half of the platform (~20 logic-heavy pages) from AngularJS to React + TypeScript
 - Rebuilt complex form flows with validation, sanitization, conditional rendering and autofill
 - Rebuilt PDF, photo, e-signature and secure file-rendering flows, reducing UI-related errors by 40%+
 - Created a reusable component library (React, TypeScript, Emotion, SCSS)
 - Covered key components and business logic with Jest unit tests
 
-**Crypto exchange platform — AI Arena**
+**Crypto exchange platform - AI Arena**
 - Built the AI Arena section from scratch: users create AI trading agents, fund them and run them with different strategies
 - Multi-step agent creation and funding flows built to a custom design system
 - WebSocket-based live updates with connection-state handling and real-time UI sync
 
-### Frontend Developer — Insiders · *May 2024 – Jan 2025* · Lviv
+### Frontend Developer - Insiders | *May 2024 - Jan 2025* | Lviv
 - **Hotcar.ua** (Angular + WordPress): faster page loads via API optimization, caching and smaller bundles; Angular modules integrated with WordPress via REST API
 - **US marketplace for boat and car sales**: multi-criteria filtering with server-side pagination, integrated end to end with a NestJS backend
 
-### Angular Frontend Developer — Freelance · *Sep 2023 – Apr 2024*
+### Angular Frontend Developer - Freelance | *Sep 2023 - Apr 2024*
 - Angular admin platform for a private music school: students, teachers, schedules and lessons
 - Firebase / Firestore with real-time sync; RxJS state; OnPush, lazy loading, trackBy, debounce
 
-### React Frontend Developer — Bluebox Worldwide Ltd · *Mar 2023 – Aug 2023* · UK, remote
+### React Frontend Developer - Bluebox Worldwide Ltd | *Mar 2023 - Aug 2023* | UK, remote
 - Responsive, cross-browser React components from design mockups; REST APIs with Axios
 - Git workflow with pull requests and code reviews
 
@@ -89,14 +89,14 @@ This account ([roman-onsyhko-dev](https://github.com/roman-onsyhko-dev)) is my p
 
 ## 🎓 Education
 
-- **BSc, Telecommunications and Radio Engineering** — State University of Intelligent Technologies and Telecommunications, Odesa · 2023 – 2025
-- **Junior Bachelor, Automotive Maintenance and Repair** — Lviv Automobile and Road College · 2019 – 2023
+- **BSc, Telecommunications and Radio Engineering** - State University of Intelligent Technologies and Telecommunications, Odesa | 2023 - 2025
+- **Junior Bachelor, Automotive Maintenance and Repair** - Lviv Automobile and Road College | 2019 - 2023
 
 ---
 
 ## 🌍 Languages
 
-English — B2 (Upper-Intermediate) · Ukrainian — Native · Russian — Fluent
+English - B2 (Upper-Intermediate) | Ukrainian - Native | Russian - Fluent
 
 ---
 
